@@ -16,3 +16,6 @@ npm run build
 ```
 
 For a detailed explanation of the build process, read the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+
+一个简单的例子，包含了怎么使用vue-router 和webpack vue工具的使用
